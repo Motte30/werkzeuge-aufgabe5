@@ -15,7 +15,7 @@ Durch das Drücken der **ENTER-Taste** erstellt der Kompiler eine Class-Datei, we
 
 #### Ausführen
 
-Zum Ausführen wird der Befehl **_java_* benötigt.
+Zum Ausführen wird der Befehl **_java_** benötigt.
 Dieser wird, gefolgt vom Dateinamen der zu kompilierenden Datei mit der Endung _.class_, in die Kommandozeile eingegeben.
 Dabei ist es nicht notwendig die Endung (also _.class_) hinzuschreiben.
 Sie kann getrost weggelassen werden.
